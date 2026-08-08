@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Tri 👋
 
-<!--
-**pamhtir/pamhtir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical Python solutions for data collection,
+data processing, and spreadsheet automation.
 
-Here are some ideas to get you started:
+## Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web scraping and data extraction
+- Data cleaning and transformation
+- Excel and CSV automation
+- Automated reporting workflows
+
+## Featured Projects
+
+### Social Media Comment Scraper
+
+Extracts, cleans, sorts, and exports social media comments
+to structured CSV and Excel files.
+
+[View Project](PROJECT_LINK)
+
+### Automated Excel Report
+
+Coming soon.
+
+### Data Cleaning Pipeline
+
+Coming soon.
+
+## Technical Skills
+
+Python · Pandas · Selenium · Excel · CSV · Git · GitHub
+
+## Contact
+
+Available for freelance projects.
