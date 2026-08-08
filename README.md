@@ -33,4 +33,4 @@ Python · Pandas · Selenium · Excel · CSV · Git · GitHub
 
 ## Contact
 
-Available for freelance projects.
+pnmtri280306@gmail.com
