@@ -1,36 +1,14 @@
 # Hi, I'm Tri 👋
 
-I build practical Python solutions for data collection,
-data processing, and spreadsheet automation.
+I am a Chemical Engineering graduate developing practical skills
+in data science, Python, and engineering data analysis.
 
-## Services
+My long-term goal is to apply data science to chemical processes,
+industrial operations, process optimization, and engineering
+decision-making.
+
+Alongside this journey, I build freelance Python solutions for:
 
 - Web scraping and data extraction
 - Data cleaning and transformation
-- Excel and CSV automation
-- Automated reporting workflows
-
-## Featured Projects
-
-### Social Media Comment Scraper
-
-Extracts, cleans, sorts, and exports social media comments
-to structured CSV and Excel files.
-
-[View Project](PROJECT_LINK)
-
-### Automated Excel Report
-
-Coming soon.
-
-### Data Cleaning Pipeline
-
-Coming soon.
-
-## Technical Skills
-
-Python · Pandas · Selenium · Excel · CSV · Git · GitHub
-
-## Contact
-
-pnmtri280306@gmail.com
+- Excel and reporting automation
