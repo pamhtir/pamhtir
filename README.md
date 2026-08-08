@@ -1,4 +1,4 @@
-# Hi, I'm Tri 👋
+# Hi, I'm Tri 
 
 I am a Chemical Engineering graduate developing practical skills
 in data science, Python, and engineering data analysis.
