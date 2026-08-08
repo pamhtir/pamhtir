@@ -7,8 +7,4 @@ My long-term goal is to apply data science to chemical processes,
 industrial operations, process optimization, and engineering
 decision-making.
 
-Alongside this journey, I build freelance Python solutions for:
-
-- Web scraping and data extraction
-- Data cleaning and transformation
-- Excel and reporting automation
+Alongside this journey, I build freelance Python solutions for freelancing projects.
